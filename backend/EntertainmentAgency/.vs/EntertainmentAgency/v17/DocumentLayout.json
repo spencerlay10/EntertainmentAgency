@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|c:\\users\\sklay\\source\\repos\\entertainmentagency\\backend\\entertainmentagency\\entertainmentagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|solutionrelative:entertainmentagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|c:\\users\\sklay\\source\\repos\\entertainmentagency\\backend\\entertainmentagency\\entertainmentagency\\data\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|solutionrelative:entertainmentagency\\data\\entertainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|c:\\users\\sklay\\source\\repos\\entertainmentagency\\backend\\entertainmentagency\\entertainmentagency\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|solutionrelative:entertainmentagency\\controllers\\entertainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|c:\\users\\sklay\\source\\repos\\entertainmentagency\\backend\\entertainmentagency\\entertainmentagency\\data\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|solutionrelative:entertainmentagency\\data\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|c:\\users\\sklay\\source\\repos\\entertainmentagency\\backend\\entertainmentagency\\entertainmentagency\\data\\entertainmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|solutionrelative:entertainmentagency\\data\\entertainmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|c:\\users\\sklay\\source\\repos\\entertainmentagency\\backend\\entertainmentagency\\entertainmentagency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89C1AAF2-9D70-4173-96E2-9060E987268E}|EntertainmentAgency\\EntertainmentAgency.csproj|solutionrelative:entertainmentagency\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entertainer.cs",
+              "DocumentMoniker": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Data\\Entertainer.cs",
+              "RelativeDocumentMoniker": "EntertainmentAgency\\Data\\Entertainer.cs",
+              "ToolTip": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Data\\Entertainer.cs",
+              "RelativeToolTip": "EntertainmentAgency\\Data\\Entertainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:49:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntertainerController.cs",
+              "DocumentMoniker": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Controllers\\EntertainerController.cs",
+              "RelativeDocumentMoniker": "EntertainmentAgency\\Controllers\\EntertainerController.cs",
+              "ToolTip": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Controllers\\EntertainerController.cs",
+              "RelativeToolTip": "EntertainmentAgency\\Controllers\\EntertainerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:34:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Program.cs",
+              "RelativeDocumentMoniker": "EntertainmentAgency\\Program.cs",
+              "ToolTip": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Program.cs",
+              "RelativeToolTip": "EntertainmentAgency\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:35:48.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntertainmentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Data\\EntertainmentDbContext.cs",
+              "RelativeDocumentMoniker": "EntertainmentAgency\\Data\\EntertainmentDbContext.cs",
+              "ToolTip": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Data\\EntertainmentDbContext.cs",
+              "RelativeToolTip": "EntertainmentAgency\\Data\\EntertainmentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:50:10.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Data\\Agent.cs",
+              "RelativeDocumentMoniker": "EntertainmentAgency\\Data\\Agent.cs",
+              "ToolTip": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\Data\\Agent.cs",
+              "RelativeToolTip": "EntertainmentAgency\\Data\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:52:25.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\appsettings.json",
+              "RelativeDocumentMoniker": "EntertainmentAgency\\appsettings.json",
+              "ToolTip": "C:\\Users\\sklay\\source\\repos\\EntertainmentAgency\\backend\\EntertainmentAgency\\EntertainmentAgency\\appsettings.json",
+              "RelativeToolTip": "EntertainmentAgency\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T15:59:23.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

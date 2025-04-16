@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "EntertainmentAgency.Controllers.EntertainerController",
+    "Method": "AddEntertainer",
+    "RelativePath": "Entertainer/AddEntertainer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEntertainer",
+        "Type": "EntertainmentAgency.Data.Entertainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntertainmentAgency.Controllers.EntertainerController",
+    "Method": "GetEntertainers",
+    "RelativePath": "Entertainer/AllEntertainers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntertainmentAgency.Controllers.EntertainerController",
+    "Method": "DeleteEntertainer",
+    "RelativePath": "Entertainer/DeleteEntertainer/{entertainerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entertainerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EntertainmentAgency.Controllers.EntertainerController",
+    "Method": "UpdateEntertainer",
+    "RelativePath": "Entertainer/UpdateEntertainer/{entertainerId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entertainerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedEntertainer",
+        "Type": "EntertainmentAgency.Data.Entertainer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
